@@ -18,12 +18,6 @@ This GitHub repository is where the starter files are stored.
 
 For this exercise, you are **not** making your own GitHub repository (yet).
 
-You are **not** using a template repository.
-
-You are **not** cloning the repository.
-
-You are **not** committing or pushing anything to GitHub.
-
 For this exercise, you are only downloading the starter files as a ZIP file, editing them on your computer, zipping your completed folder, and submitting the completed ZIP file in Canvas.
 
 ---
