@@ -10,57 +10,25 @@ This is a follow-along coding exercise. Watch the videos in Canvas in order, pau
 
 ---
 
-## Use Canvas for the Full Assignment Instructions
+## Important: Make Your Own Copy
 
-Canvas has the full assignment description, screencast videos, due date, and submission instructions.
+For this assignment, you will make your own copy of the starter repository using GitHub’s template/copy process. Your copy will become your own repository. Do not edit my original repository.
 
-This GitHub repository is where the starter files are stored.
-
-For this exercise, you are **not** making your own GitHub repository (yet).
-
-For this exercise, you are only downloading the starter files as a ZIP file, editing them on your computer, zipping your completed folder, and submitting the completed ZIP file in Canvas.
-
----
-
-## Important: Download the ZIP File
-
-For this exercise, use GitHub only as a place to download the starter files.
+After you create your own repository, you must **clone** your copy to your computer using GitHub Desktop. Then you will edit the files in Visual Studio Code.
 
 The basic workflow is:
 
-1. Go to the GitHub repository.
-2. Click the green **Code** button.
-3. Choose **Download ZIP**.
-4. Save the ZIP file to your computer.
-5. Unzip the folder before working.
-6. Open the unzipped folder in Visual Studio Code.
-7. Complete the coding exercise.
-8. Zip the completed folder.
-9. Submit the completed ZIP file in Canvas.
+1. Create your own copy of the template repository.
+2. Clone your copy to your computer using GitHub Desktop.
+3. Open the project folder in Visual Studio Code.
+4. Complete the coding exercise.
+5. Save your files.
+6. **Commit** your changes in GitHub Desktop.
+7. **Push** your changes to GitHub.
+8. Submit your repository URL in Canvas.
 
-Do **not** work directly inside the ZIP file. You must unzip it first.
+If you only change the files on your computer but do not commit and push, your instructor will not be able to see your finished work on GitHub.
 
----
-
-
-
-## Recommended Folder Organization
-
-Before you start coding, put the unzipped project folder somewhere organized.
-
-A good setup would be to create one main folder for this course, then place each coding exercise inside it.
-
-Example:
-
-- 📁`web-design-1`
-  - 📁`handsome`
-  - 📁`learning-html`
-  - 📁`hollow-earth`
-  - 📁`learning-css`
-
-Keeping your files organized will make your life much easier as the course continues. Web projects depend on exact file names and folder locations, so losing track of files can cause broken links, missing images, missing CSS, and other problems.
-
-After you unzip the starter files, you may delete the original ZIP file so you do not confuse it with the completed ZIP file you will submit later.
 
 ---
 
@@ -240,37 +208,44 @@ That way, the reset removes default browser styling first, and your own CSS adds
 
 ---
 
-## Before You Submit
+## GitHub Workflow Reminder
 
-Before submitting your work in Canvas, check the following:
+For this assignment you will submit the URL of your GitHub repository instead of a ZIP file submission.
 
-- Your project folder is unzipped
-- Your project folder is saved somewhere you can find it
-- You opened the full project folder in Visual Studio Code
-- You watched the videos in order
-- You saved your files
-- Your internal style sheet examples work
-- Your class selector examples work
-- Your box model styles are visible
-- Your `header` and `main` elements are in the correct places
-- Your reset style sheet is linked correctly
-- Your own external CSS file is linked correctly
-- The reset style sheet is linked before your own CSS file
-- Your wrapper is added correctly
-- Your page looks correct when previewed in a browser
-- You zipped the entire completed project folder, not just one file
+That means you need to make sure your work gets uploaded to GitHub.com.
+
+The basic GitHub Desktop workflow is:
+
+1. Make changes in VS Code.
+2. Save your files.
+3. Open GitHub Desktop.
+4. Review the changed files.
+5. Write a short commit message.
+6. Click Commit.
+7. Push your changes to GitHub.
+
+A **commit** saves a checkpoint.
+
+A **push** uploads that checkpoint to GitHub.com.
+
+Your professor can only see files that have been pushed to a public repository on GitHub. Nobody else can see files that are only on your laptop.
 
 ---
 
 ## What to Submit
 
-When you are finished, compress the entire completed project folder into a ZIP file and submit that ZIP file in Canvas.
+Submit the **URL of your GitHub repository** in Canvas.
 
-Do not submit only one HTML file.
+Do not submit only a screenshot.
 
-Do not submit only your CSS file.
+Do not submit a ZIP file.
 
-This project depends on multiple files working together. If you submit only one file, the project may not work correctly when it is opened on another computer.
+The submitted URL should look something like:
+
+- `https://github.com/your-username/learning-css`
+
+
+Before submitting, open your repository URL in a browser and make sure it goes to your GitHub repository.
 
 ---
 
