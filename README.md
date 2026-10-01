@@ -365,8 +365,6 @@ Select something.
 
 Declare what should change.
 
-Save the file.
-
 Preview the result.
 
 Adjust and test again.
